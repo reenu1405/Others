@@ -79,3 +79,15 @@ table via markdown table syntax.  <br/>
     This is another regular paragraph.
 
 
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd>
+
+
+
+
+
+
+
+
+
+
+
