@@ -10,5 +10,5 @@ https://www.tutorialspoint.com/grav/grav_markdown_syntax.htm#:~:text=Symbols%20l
 
 The Ultimate Markdown Cheat Sheet
 https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0
-
-
+How to draw checkbox or tick mark in GitHub Markdown table?
+https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table
